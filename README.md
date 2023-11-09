@@ -9,7 +9,7 @@ However, not only the evolution of quaternions were used, but also their 2D-DFT 
 In [this link]([url](https://www.researchgate.net/publication/344949079_Deep_learning_model_for_upper-body_action_recognition_using_body-worn_sensors)) you can find the full research paper in case you are interested in a more detailed and in-depth explanation. Additionally, in this git repository you will find some notebooks regarding GANs (Generative Adversarial Networks), whihc are not referrenced in the research paper. This is because they were only included in the MSc dissertation thesis, as it was also explored (introductory) the generation of human movements (quaternion signals) and their representation in a 3D Unity avatar, as it can be seen in this [YouTube video (Spanish)]([url](https://youtu.be/hxi8GaB1LDo?si=CNv7qOu-0QDtlMjm)https://youtu.be/hxi8GaB1LDo?si=CNv7qOu-0QDtlMjm).
 
 The structure of the repository is as follows:
-- 00 - data: Contains all tge files from the dataset and the ones I generated in different ways.
+- 00 - data: Contains all the files from the dataset and the ones I generated in different ways.
 - 01 - CLASSIFICATION: Neural networks (CNNS and CNN+RNNs) used for classification and their results.
 - 02 - GANs: Generative Adversarial networks I tried for data augmentation.
 - 03 - PREDICTION: Movements generation, this is, quaternions generation.
