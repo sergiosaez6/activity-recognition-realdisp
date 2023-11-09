@@ -1,4 +1,4 @@
-# activity-recognition-realdisp
+# Human Activity Recognition(HAR) using body-worn sensors and Deep Learning
 
 This repository contains some of the code I used on the development of my M.Sc. in Telecommunications Engineering' dissertation thesis a while ago (2020), and allowed me to write and present a research paper on the ASPAI'20 Conference (Advances in Signal Processing and Artificial Intelligence) called 'Deep learning model for upper-body action recognition using body-worn sensors'.
 
